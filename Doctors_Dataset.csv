@@ -1,0 +1,700 @@
+﻿id,Name,Contact,Age,Specialisation,Hospital
+1,"Diem Truong,Â LAc, MSTOM",1345826407,50,Neurosurgeon,4362
+2,"Monique Rivera,Â LAc",1345826407,31,ENT,1174
+3,"Ronald Pratt,Â LAc, DiplAc, MA, MSAc",1345826407,48,Neurosurgeon,4555
+4,"Daniel Camburn,Â LAc",1345826407,31,Endocrinologist,2507
+5,"Deborah Barbiere,Â LAc, MSTOM, PsyD",1345826407,49,Audiologist,142
+6,"Miguel Maya,Â MSTOM, LAc",1345826407,42,Neurosurgeon,4132
+7,"Elizabeth Healy,Â LAc",1345826407,50,Opthamologist,4674
+8,"Irina Logman,Â LAc, DACM",1345826407,47,ENT,4290
+9,"Han Jun,Â LAc",1345826407,45,Opthamologist,4236
+10,"Michiko Yoshifuji,Â DiplAc, LAc",1345826407,30,Pediatrician,696
+11,"Maiko Hattori,Â LAc",1345826407,49,Audiologist,2399
+12,"Diem Truong,Â LAc, MSTOM",1345826407,46,Opthamologist,2101
+13,"Jennifer Beltrani,Â LAc",1345826407,34,AudiologistDentist,3307
+14,"Dr.Â Jimo (Timothy) Kang,Â LAc, PhD",1345826407,40,Pediatrician,2556
+15,"Dr.Â Jimo (Timothy) Kang,Â LAc, PhD",1345826407,30,Gynaecologist,4086
+16,"Dr.Â Brandon Cooper,Â DC, LAc, DiplAc",1345826407,41,AudiologistDentist,4601
+17,"Timothy Klemt,Â LAc, DACM",1345826407,35,Cardiologist,473
+18,"Ji Sung Kim,Â LAc",1345826407,56,Endocrinologist,147
+19,"Kirsten Manges,Â LAc",1345826407,38,Endocrinologist,2685
+20,"Jing Jiang,Â LAc",1345826407,42,AudiologistDentist,1049
+21,"Diem Truong,Â LAc, MSTOM",1345826407,50,Cardiologist,3602
+22,"Kirsten Manges,Â LAc",1345826407,43,Audiologist,2151
+23,"Jing Jiang,Â LAc",1345826407,57,Gynaecologist,2262
+24,"Dr.Â Ai Lee,Â PhD",1345826407,41,ENT,3589
+25,"Erin Lee,Â LAc, DACM",1345826407,41,Cardiologist,1142
+26,"Jonathan Simon,Â LAc",1345826407,59,Endocrinologist,2161
+27,"Tammy Huang,Â MSTOM, LAc",1345826407,31,Pediatrician,4610
+28,"Dong Hwan Lee,Â LAc",1345826407,58,ENT,3223
+29,"Jodi Gentili,Â LAc",1345826407,34,Audiologist,4587
+30,"Boris Bernadsky,Â LAc, LMT",1345826407,38,Opthamologist,316
+31,"Xinyu (Allison) Cheng,Â LAc",1345826407,57,Audiologist,2931
+32,"Qian Li,Â LAc",1345826407,39,Opthamologist,1580
+33,"Anna Hajosi,Â LAc, MSAc",1345826407,40,Opthamologist,4618
+34,"Deborah Valentin,Â LAc, MS",1345826407,56,ENT,2992
+35,"Ki Yin Cheng,Â LAc",1345826407,41,Opthalmologist,245
+36,"Qi Yu,Â LAc",1345826407,36,AudiologistDentist,466
+37,"Dr.Â Brandon Cooper,Â DC, LAc, DiplAc",1345826407,47,Audiologist,145
+38,"Lisa Sumption,Â LAc",1345826407,44,Gynaecologist,435
+39,"Youngsoo Oh,Â PT",1345826407,45,Opthalmologist,4029
+40,"Enensaauas Rastrygina,Â DAc, LAc, LMT",1345826407,31,Endocrinologist,4402
+41,"Diem Truong,Â LAc, MSTOM",1345826407,52,ENT,771
+42,"Samantha Hewwing,Â LAc, DACM",1345826407,50,AudiologistDentist,2817
+43,"Flora Luyando,Â LAc",1345826407,57,Audiologist,247
+44,"Yuji Kim,Â LAc",1345826407,41,Pediatrician,805
+45,"Zhiwen Zhong,Â LAc, DACM, MSTCM",1345826407,43,Opthamologist,2506
+46,"Lida Ahmady,Â LAc",1345826407,30,Gynaecologist,3882
+47,"Maya Kron,Â LAc",1345826407,35,Neurosurgeon,4548
+48,"Yoko Kuo,Â LAc",1345826407,41,Gynaecologist,4690
+49,"Heeock Lee,Â LAc",1345826407,49,Opthalmologist,4766
+50,"Itorye Silver,Â LAc",1345826407,33,Cardiologist,68
+51,"Julie Cho,Â DAOM, LAc, MSTOM",1345826407,59,Neurosurgeon,3226
+52,"Frank Muscara,Â LAc, DACM",1345826407,40,Cardiologist,1574
+53,"Yang Yang Zucco,Â LAc",1345826407,49,AudiologistDentist,3553
+54,"Kelsey Tangel,Â DACM",1345826407,30,Cardiologist,683
+55,"Joelle Ludwig,Â LAc",1345826407,50,ENT,3173
+56,"Joannie Campuzano,Â LAc",1345826407,54,Opthamologist,3825
+57,"Joyce Lilly,Â DAc, LAc",1345826407,33,Gynaecologist,3049
+58,"Li Ting Lin,Â LAc",1345826407,48,Cardiologist,4076
+59,"Philip Trigiani,Â LAc, DAc",1345826407,49,Gynaecologist,2745
+60,"Connie Qian,Â LAc",1345826407,35,Cardiologist,3597
+61,"Diem Truong,Â LAc, MSTOM",1345826407,30,Opthamologist,1237
+62,"Douglas Freeman,Â LAc, MS",1345826407,55,AudiologistDentist,884
+63,"Amy Woodstock,Â LAc",1345826407,59,Audiologist,2838
+64,"Giovanna Silva,Â LAc, MSOM",1345826407,32,Opthamologist,1520
+65,"Dr.Â Yu Cheng Chen,Â PhD, DC, LAc",1345826407,56,Audiologist,465
+66,"Marina Doktorman,Â LAc",1345826407,40,Gynaecologist,3434
+67,"Xue (Snow) Xia,Â LAc",1345826407,42,Gynaecologist,4071
+68,"Dr.Â Aran Degenhardt,Â MD, CAc",1345826407,52,Opthalmologist,1771
+69,"Jane Gibbons,Â LAc",1345826407,39,ENT,1085
+70,"Li Ting Lin,Â LAc",1345826407,57,Cardiologist,296
+71,"Russell Stram,Â PT",1345826407,52,ENT,1378
+72,"Lisa Sumption,Â LAc",1345826407,40,Gynaecologist,3983
+73,"Dr.Â Stephen Coleman,Â MD, LAc",1345826407,59,Cardiologist,3826
+74,"April Nieves,Â LAc",1345826407,60,Opthalmologist,4755
+75,"Amy Woodstock,Â LAc",1345826407,50,Audiologist,2543
+76,"Anna Piva,Â LAc, DACM",1345826407,34,Neurosurgeon,2613
+77,"Dumisani Kambi-Shamba,Â LAc, MSTOM",1345826407,47,Endocrinologist,1180
+78,"Jonathan Simon,Â LAc",1345826407,50,Opthamologist,2285
+79,"Marjorie (Margie) Navarro,Â LAc",1345826407,45,ENT,3919
+80,"Xaoling Shang,Â LAc, MSTOM",1345826407,40,ENT,450
+81,"Diem Truong,Â LAc, MSTOM",1345826407,52,Audiologist,733
+82,"Jacqueline Fazzalari,Â LAc",1345826407,56,Opthamologist,318
+83,"Marc Gian,Â LAc",1345826407,57,Cardiologist,4594
+84,"Dr.Â Oliver Grover,Â DC, LAc, MS",1345826407,41,Endocrinologist,152
+85,"Christopher Trahan,Â LAc",1345826407,30,Endocrinologist,480
+86,"Dr.Â Yi Yi Wu,Â LAc, PhD",1345826407,50,ENT,3855
+87,"Howard Tso,Â LAc",1345826407,58,Neurosurgeon,2124
+88,"Jeffrey Chen,Â LAc",1345826407,30,Gynaecologist,256
+89,"Darren Louie,Â LAc, MSTOM",1345826407,59,Gynaecologist,3251
+90,"Dr.Â Aran Degenhardt,Â MD, CAc",1345826407,38,Opthamologist,4041
+91,"Boris Bernadsky,Â LAc, LMT",1345826407,53,Neurosurgeon,1247
+92,"Xaoling Shang,Â LAc, MSTOM",1345826407,38,Audiologist,506
+93,"Aliona Kats,Â LAc, LMT",1345826407,57,AudiologistDentist,4673
+94,"SongLinh Lu,Â LAc",1345826407,49,Gynaecologist,371
+95,"Zvi Goldberg,Â LAc",1345826407,35,Neurosurgeon,1883
+96,"Melissa Little,Â LAc",1345826407,48,Gynaecologist,4707
+97,"Andrea Vannelli,Â DAc, DiplAc, LAc",1345826407,54,ENT,1707
+98,"Andrea Vannelli,Â DAc, DiplAc, LAc",1345826407,57,Audiologist,4277
+99,"Siras Ramos,Â LAc",1345826407,33,AudiologistDentist,1877
+100,"Annalisa Brown,Â LAc",1345826407,54,Opthalmologist,1175
+101,"Diem Truong,Â LAc, MSTOM",1345826407,48,Gynaecologist,2522
+102,"Natalie Francis,Â LAc",1345826407,34,ENT,3349
+103,"Pamela Yap,Â LAc, MSTOM",1345826407,56,Opthalmologist,2732
+104,"Brian Chang,Â DAc, DiplAc, LAc",1345826407,50,Audiologist,1675
+105,"Dr.Â Sara Scrivano,Â DC, LAc",1345826407,40,Cardiologist,238
+106,"Youngsoo Oh,Â PT",1345826407,37,Neurosurgeon,3778
+107,"Hyoung Gyo Kim,Â LAc",1345826407,56,Audiologist,2266
+108,"Siraj Venjara,Â LAc, MSTOM",1345826407,53,Pediatrician,651
+109,"Dr.Â Steven Moalemi,Â MD",1345826407,45,Audiologist,70
+110,"Hiroe Yamani,Â LAc",1345826407,34,Opthamologist,1858
+111,"Dr.Â Lev Kalika,Â DC",1345826407,43,Cardiologist,1925
+112,"Dr.Â David Hong,Â DC",1345826407,33,Audiologist,3993
+113,"Dr.Â Steven Moalemi,Â MD",1345826407,49,AudiologistDentist,3008
+114,"Dr.Â Steven Moalemi,Â MD",1345826407,33,Audiologist,2232
+115,"Dr.Â Kelly Bay,Â DC, CDN, CNS",1345826407,57,Audiologist,4336
+116,"Keping Du,Â LAc",1345826407,35,Opthamologist,2202
+117,"Joelle Ludwig,Â LAc",1345826407,56,Pediatrician,990
+118,"Joanne Hsieh,Â LAc",1345826407,48,Endocrinologist,3484
+119,"Dr.Â Stephen Coleman,Â MD, LAc",1345826407,50,ENT,3926
+120,"Brian Kelly,Â LAc",1345826407,50,Neurosurgeon,1653
+121,"Diem Truong,Â LAc, MSTOM",1345826407,60,Pediatrician,4183
+122,"Ok Jean Keh,Â LAc",1345826407,41,Opthamologist,3834
+123,"Dr.Â Jose Colon,Â MD",1345826407,31,Neurosurgeon,4618
+124,"Siraj Venjara,Â LAc, MSTOM",1345826407,50,ENT,4032
+125,"Joanne Hsieh,Â LAc",1345826407,52,Cardiologist,4242
+126,"Tzu-Ying Chiang,Â LAc",1345826407,54,ENT,2469
+127,"Dr.Â Sally Mravcak,Â MD",1345826407,31,Neurosurgeon,3889
+128,"Dr.Â Jennifer Zocca,Â MD",1345826407,30,Endocrinologist,3589
+129,"Kyung Yoo,Â LAc",1345826407,36,Pediatrician,4626
+130,"Tzu-Ying Chiang,Â LAc",1345826407,47,Gynaecologist,4108
+131,"Chung-Ying (Fred) Tsai,Â PT, LAc, MPT, MSTOM, DACM",1345826407,49,Endocrinologist,4167
+132,"Igor Vatelman,Â LAc, MSTOM",1345826407,34,Neurosurgeon,1881
+133,"Chung-Ying (Fred) Tsai,Â PT, LAc, MPT, MSTOM, DACM",1345826407,34,Neurosurgeon,3240
+134,"Dr.Â Jennifer Zocca,Â MD",1345826407,55,Neurosurgeon,4752
+135,"Dr.Â Douglas Allen,Â DO",1345826407,41,Endocrinologist,1790
+136,"Dr.Â Douglas Allen,Â DO",1345826407,44,Cardiologist,3364
+137,"Heather Trujillo,Â LAc",1345826407,57,AudiologistDentist,1060
+138,"Dr.Â David Satterfield,Â DC",1345826407,43,Pediatrician,353
+139,"Dr.Â Pamela Doshner,Â DC",1345826407,50,ENT,3412
+140,"Dr.Â Patrick Grady,Â DC",1345826407,53,Cardiologist,1014
+141,"Diem Truong,Â LAc, MSTOM",1345826407,37,Endocrinologist,1406
+142,"Tammy Huang,Â MSTOM, LAc",1345826407,43,Neurosurgeon,696
+143,"Dr.Â Ari Lerner,Â MD",1345826407,40,Pediatrician,4061
+144,"Qian Li,Â LAc",1345826407,37,Opthalmologist,3857
+145,"Dr.Â Amir Mahajer,Â DO",1345826407,49,Audiologist,4575
+146,"Ani Baran,Â LAc",1345826407,46,Opthamologist,2479
+147,"Deborah Barbiere,Â LAc, MSTOM, PsyD",1345826407,57,Audiologist,3499
+148,"Tom Rhee,Â LAc",1345826407,39,Neurosurgeon,1025
+149,"Dr.Â Amir Mahajer,Â DO",1345826407,35,Audiologist,3804
+150,"Dr.Â Sukdeb Datta,Â MD",1345826407,55,Opthalmologist,2046
+151,"Dr.Â Victoria Szafranska,Â DC",1345826407,39,AudiologistDentist,2676
+152,"Dr.Â Ryan Tichauer,Â DC",1345826407,57,Cardiologist,3360
+153,"Dr.Â Alan Belsky,Â DC",1345826407,48,AudiologistDentist,2269
+154,"Dr.Â Cariann Paul,Â DC",1345826407,38,Cardiologist,2916
+155,"Dr.Â Anthony Conte,Â DC",1345826407,34,Audiologist,3764
+156,"Jungyup Song,Â DAOM",1345826407,43,Opthamologist,3633
+157,"Dr.Â Xavier Ferland Haroun,Â DC",1345826407,55,Gynaecologist,1976
+158,"Dr.Â Jong Ho Kim,Â PhD, LAc",1345826407,43,Audiologist,1452
+159,"Flora Luyando,Â LAc",1345826407,40,Cardiologist,946
+160,"Maya Kron,Â LAc",1345826407,51,Audiologist,4286
+161,"Diem Truong,Â LAc, MSTOM",1345826407,39,Audiologist,4383
+162,"Dr.Â Pamela Doshner,Â DC",1345826407,41,Audiologist,3139
+163,"Dr.Â Ryan Tichauer,Â DC",1345826407,33,Opthalmologist,4334
+164,"Dr.Â Jamie Milchanowski,Â DC",1345826407,34,Neurosurgeon,729
+165,"Dr.Â Elijah Manfredi,Â DC",1345826407,51,Audiologist,1964
+166,"Dr.Â Ashley Narain,Â DC",1345826407,59,Opthalmologist,4702
+167,"Dr.Â Amir Mahajer,Â DO",1345826407,55,Audiologist,4563
+168,"Kimberly Kulseng,Â LAc, MSTOM, DACM",1345826407,30,Opthamologist,2634
+169,"Ryan Whelan,Â LAc",1345826407,50,Neurosurgeon,540
+170,"Heeock Lee,Â LAc",1345826407,37,Audiologist,4273
+171,"Dr.Â Jose Colon,Â MD",1345826407,49,Gynaecologist,1558
+172,"Dr.Â Michael Y. Mizhiritsky,Â MD",1345826407,39,Audiologist,4086
+173,"Dr.Â Ryan Shum,Â DC",1345826407,31,ENT,2690
+174,"Dr.Â Stephanie Bayner,Â MD",1345826407,57,Pediatrician,2141
+175,"Qian Li,Â LAc",1345826407,49,ENT,3018
+176,"Christina Wallace,Â LAc",1345826407,42,Cardiologist,2027
+177,"Jennifer Beltrani,Â LAc",1345826407,48,Endocrinologist,3576
+178,"Suzanne Stolzberg,Â LAc, MS",1345826407,32,Endocrinologist,3897
+179,"Dr.Â Ryan Shum,Â DC",1345826407,43,ENT,3150
+180,"Je Lim Song,Â LAc",1345826407,37,Audiologist,4415
+181,"Diem Truong,Â LAc, MSTOM",1345826407,53,Pediatrician,1843
+182,"Ji Sung Kim,Â LAc",1345826407,56,Audiologist,6
+183,"Keping Du,Â LAc",1345826407,42,Audiologist,4716
+184,"Annie Caton-Wong,Â LAc, DAc",1345826407,36,Audiologist,1848
+185,"Dr.Â Josephine Huang,Â MD",1345826407,42,Neurosurgeon,3993
+186,"Dr.Â Brian Wraith,Â DC",1345826407,57,Audiologist,3542
+187,"Keping Du,Â LAc",1345826407,48,Gynaecologist,2434
+188,"Andrew Wysocki,Â LAc",1345826407,46,Cardiologist,1187
+189,"Christine Palma,Â LAc",1345826407,32,Pediatrician,4240
+190,"Nancy Gallen,Â LAc, DACM",1345826407,39,Gynaecologist,3366
+191,"Sarah Heslip,Â LAc",1345826407,36,Opthamologist,4607
+192,"Dr.Â Stephanie Bayner,Â MD",1345826407,55,ENT,3319
+193,"Joannie Campuzano,Â LAc",1345826407,58,Opthalmologist,3703
+194,"Igor Vatelman,Â LAc, MSTOM",1345826407,31,Opthamologist,3770
+195,"Joyce Lilly,Â DAc, LAc",1345826407,31,Audiologist,2901
+196,"Ani Baran,Â LAc",1345826407,52,Gynaecologist,628
+197,"Boris Bernadsky,Â LAc, LMT",1345826407,38,ENT,550
+198,"Zhaoyang (Eileen) Chen,Â LAc",1345826407,45,AudiologistDentist,808
+199,"Marina Yanovsky,Â LAc",1345826407,49,ENT,1901
+200,"Kim Creaven,Â LAc",1345826407,40,Neurosurgeon,4238
+201,"Dr.Â Roshni R. Naik,Â MD",1345826407,40,Endocrinologist,3677
+202,"Dr.Â Roshni R. Naik,Â MD",1345826407,34,AudiologistDentist,3598
+203,"Dr.Â Vahid Rahimian,Â DO",1345826407,38,Opthalmologist,4457
+204,"Dr.Â Ira Finegold,Â MD, MS",1345826407,32,Audiologist,4393
+205,"Dr.Â Neha Sirohi,Â MD",1345826407,53,Opthalmologist,3922
+206,"Dr.Â Tim Mainardi,Â MD",1345826407,48,Opthamologist,4145
+207,"Dr.Â Mariana Marcu,Â MD",1345826407,58,Cardiologist,4440
+208,"Dr.Â Lisa Ellman-Grunther,Â MD",1345826407,36,Cardiologist,4398
+209,"Dr.Â Julie Kuriakose,Â MD",1345826407,40,Neurosurgeon,3240
+210,"Dr.Â Rushita Mehta,Â MD",1345826407,56,Audiologist,762
+211,"Dr.Â Julie Kuriakose,Â MD",1345826407,48,Opthalmologist,2712
+212,"Dr.Â Steven Schnipper,Â MD",1345826407,47,Endocrinologist,471
+213,"Dr.Â Michael Chandler,Â MD",1345826407,57,Opthalmologist,176
+214,"Dr.Â Jonathan Field,Â MD",1345826407,38,Cardiologist,1340
+215,"Dr.Â Rose Karanicolas,Â MD",1345826407,38,Opthamologist,1763
+216,"Dr.Â Sharon Yost,Â MD",1345826407,30,Opthamologist,830
+217,"Dr.Â Mariana Marcu,Â MD",1345826407,39,Pediatrician,1681
+218,"Dr.Â Sarah Silverman,Â MD",1345826407,38,AudiologistDentist,2327
+219,"Dr.Â Tim Mainardi,Â MD",1345826407,59,Opthamologist,2177
+220,"Dr.Â Sharon Yost,Â MD",1345826407,30,Pediatrician,2761
+221,"Dr.Â Mariana Marcu,Â MD",1345826407,30,Cardiologist,3334
+222,"Dr.Â Sanjosh Singh,Â DO",1345826407,49,Gynaecologist,2869
+223,"Dr.Â Sarah Silverman,Â MD",1345826407,42,Endocrinologist,937
+224,"Dr.Â Tim Mainardi,Â MD",1345826407,57,Opthalmologist,3991
+225,"Dr.Â Jennifer Toh,Â MD",1345826407,56,Cardiologist,1302
+226,"Dr.Â Arthur Lubitz,Â MD",1345826407,49,Neurosurgeon,3238
+227,"Dr.Â Rushita Mehta,Â MD",1345826407,40,Audiologist,2079
+228,"Dr.Â Robert Lin,Â MD",1345826407,53,Endocrinologist,4345
+229,"Dr.Â Mauli Desai,Â MD",1345826407,53,Opthalmologist,663
+230,"Dr.Â Vathani Packianathan,Â MD",1345826407,58,AudiologistDentist,1010
+231,"Dr.Â Vathani Packianathan,Â MD",1345826407,57,Opthamologist,373
+232,"Dr.Â Sourab Choudhury,Â DO",1345826407,48,Opthamologist,1305
+233,"Dr.Â Jennifer Collins,Â MD",1345826407,60,Endocrinologist,3725
+234,"Dr.Â Jennifer Collins,Â MD",1345826407,59,Endocrinologist,667
+235,"Dr.Â Arthur Lubitz,Â MD",1345826407,32,Opthalmologist,4438
+236,"Dr.Â Norman Greeley,Â MD",1345826407,38,Audiologist,2299
+237,"Dr.Â Shradha Agarwal,Â MD",1345826407,53,Audiologist,64
+238,"Dr.Â Norman Greeley,Â MD",1345826407,31,Pediatrician,3861
+239,"Dr.Â Sebastian Lighvani,Â MD",1345826407,49,Pediatrician,2055
+240,"Dr.Â Ama Alexis,Â MD, FAAAAI",1345826407,33,Pediatrician,4513
+241,"Dr.Â Mauli Desai,Â MD",1345826407,37,Neurosurgeon,2537
+242,"Dr.Â Ama Alexis,Â MD, FAAAAI",1345826407,57,Pediatrician,1682
+243,"Dr.Â Priya Chokshi,Â MD",1345826407,52,Opthamologist,217
+244,"Dr.Â Priya Chokshi,Â MD",1345826407,56,Neurosurgeon,3313
+245,"Eduardo Yarur,Â PA",1345826407,58,AudiologistDentist,1186
+246,"Dr.Â Gary Stadtmauer,Â MD",1345826407,37,Opthalmologist,173
+247,"Eduardo Yarur,Â PA",1345826407,46,AudiologistDentist,58
+248,"Dr.Â Ira Finegold,Â MD, MS",1345826407,44,Cardiologist,3644
+249,"Dr.Â Paula Busse,Â MD",1345826407,49,Opthalmologist,4304
+250,"Dr.Â Paula Busse,Â MD",1345826407,57,Endocrinologist,1492
+251,"Dr.Â Bradley Glodny,Â MD",1345826407,46,Opthamologist,1362
+252,"Godfrey Aneke,Â NP",1345826407,58,Opthalmologist,722
+253,"Dr.Â Sharon Yost,Â MD",1345826407,40,Endocrinologist,1364
+254,"Dr.Â Jennifer Toh,Â MD",1345826407,41,Endocrinologist,3055
+255,"Dr.Â Matthew Pabis,Â MD",1345826407,32,Gynaecologist,4574
+256,"Dr.Â Vladyslava Doktor,Â DO",1345826407,38,Opthalmologist,117
+257,"Dr.Â Felix Chien,Â DO",1345826407,53,Pediatrician,2927
+258,"Dr.Â Felix Chien,Â DO",1345826407,44,Neurosurgeon,2575
+259,"Dr.Â Morgan Rabach,Â MD",1345826407,31,Pediatrician,1148
+260,"Dr.Â Nathan Saint Amand,Â MD",1345826407,48,Neurosurgeon,4127
+261,"Dr.Â Alison Gruen,Â MD",1345826407,35,AudiologistDentist,4257
+262,"Dr.Â Melissa Chan,Â MD",1345826407,35,Neurosurgeon,3407
+263,"Dr.Â Melissa Chan,Â MD",1345826407,60,Audiologist,1614
+264,"Dr.Â Robert L. Buka,Â MD, JD",1345826407,55,Pediatrician,2240
+265,"Dr.Â Lyubov Avshalumova,Â DO",1345826407,50,ENT,554
+266,"Dr.Â Lyubov Avshalumova,Â DO",1345826407,30,Endocrinologist,3240
+267,"Dr.Â Sourab Choudhury,Â DO",1345826407,57,Endocrinologist,4361
+268,"Dr.Â Dina Began,Â MD",1345826407,40,Cardiologist,882
+269,"Dr.Â Uchenna Okereke,Â MD",1345826407,36,AudiologistDentist,1260
+270,"Dr.Â Charlotte Noorollah,Â DO",1345826407,32,Pediatrician,691
+271,"Dr.Â Jonathan Trager,Â MD",1345826407,44,ENT,1985
+272,"Dr.Â Sanjosh Singh,Â DO",1345826407,55,Endocrinologist,4218
+273,"Dr.Â Jennifer Geiger,Â MD, FAAD",1345826407,55,AudiologistDentist,2941
+274,"Dr.Â Joyce Davis,Â MD",1345826407,54,ENT,1068
+275,"Dr.Â Lian Mack,Â MD",1345826407,55,Gynaecologist,769
+276,"Dr.Â Pinkas Lebovits,Â MD",1345826407,53,Neurosurgeon,4201
+277,"Dr.Â Isaac Namdar,Â MD, FACS",1345826407,59,Gynaecologist,3431
+278,"Dr.Â Amy Spizuoco,Â DO",1345826407,56,Pediatrician,2482
+279,"Dr.Â Anjali Vekaria,Â MD",1345826407,40,Cardiologist,851
+280,"Dr.Â Jennifer Geiger,Â MD, FAAD",1345826407,57,Pediatrician,3186
+281,"Dr.Â Janet Prystowsky,Â MD",1345826407,30,AudiologistDentist,3278
+282,"Dr.Â Jessica Feig,Â MD",1345826407,52,Neurosurgeon,3907
+283,"Dr.Â Jessica Feig,Â MD",1345826407,34,Opthalmologist,2482
+284,"Dr.Â Syra Hanif,Â MD",1345826407,38,Opthalmologist,2238
+285,"Dr.Â Omar Noor,Â MD, FAAD",1345826407,35,Endocrinologist,2616
+286,"Dr.Â Roshni R. Naik,Â MD",1345826407,45,Gynaecologist,569
+287,"Dr.Â David Culang,Â MD",1345826407,31,Gynaecologist,2944
+288,"Dr.Â George Castro,Â MD",1345826407,40,Opthalmologist,3312
+289,"Dr.Â Tarek Yamany,Â MD",1345826407,40,AudiologistDentist,1570
+290,"Dr.Â Tarek Yamany,Â MD",1345826407,35,Cardiologist,3817
+291,"Dr.Â Babar Rao,Â MD, FAAD",1345826407,47,Pediatrician,4624
+292,"Dr.Â David Culang,Â MD",1345826407,46,Gynaecologist,927
+293,"Dr.Â Amy Perlmutter,Â MD",1345826407,48,Opthamologist,4123
+294,"Dr.Â Amy Perlmutter,Â MD",1345826407,58,Endocrinologist,2974
+295,"Dr.Â Karen Burke,Â MD",1345826407,40,Cardiologist,4636
+296,"Lauren Falcone,Â NP",1345826407,53,Gynaecologist,583
+297,"Dr.Â Tamara Lazic Strugar,Â MD, FAAD",1345826407,54,AudiologistDentist,2471
+298,"Dr.Â Tamara Lazic Strugar,Â MD, FAAD",1345826407,56,AudiologistDentist,4438
+299,"Dr.Â Richard Nass,Â MD",1345826407,56,Opthamologist,1534
+300,"Dr.Â Ami Patel,Â MD",1345826407,37,Endocrinologist,1912
+301,"Brooke Morton,Â FNP",1345826407,30,Endocrinologist,1319
+302,"Dr.Â Jeffrey Ahn,Â MD",1345826407,56,Endocrinologist,213
+303,"Dr.Â Robert Tamayev,Â MD, PhD",1345826407,51,Gynaecologist,2684
+304,"Emily Eppel,Â PAC",1345826407,39,ENT,951
+305,"Dr.Â Alison Gruen,Â MD",1345826407,33,Endocrinologist,2452
+306,"Dr.Â Anthony Del Signore,Â MD, PharmD",1345826407,38,Pediatrician,86
+307,"Dr.Â Louise-Nicole Moulin,Â MD",1345826407,32,Opthalmologist,363
+308,"Dr.Â Kristina Goldenberg,Â MD",1345826407,46,AudiologistDentist,3895
+309,"Dr.Â Roshni R. Naik,Â MD",1345826407,43,Endocrinologist,2621
+310,"Dr.Â Robert J. Bos,Â MD",1345826407,59,AudiologistDentist,4440
+311,"Dr.Â Robert L. Buka,Â MD, JD",1345826407,41,AudiologistDentist,2725
+312,"Dr.Â Amy Lewis,Â MD",1345826407,44,AudiologistDentist,612
+313,"Dr.Â Keith Uleis,Â MD",1345826407,45,Neurosurgeon,3955
+314,"Dr.Â Monica Halem,Â MD, FAAD",1345826407,39,Pediatrician,2214
+315,"Dr.Â Keith Uleis,Â MD",1345826407,45,Audiologist,4199
+316,"Dr.Â Fitzgeraldo Sanchez,Â MD",1345826407,39,Cardiologist,190
+317,"Dr.Â Fitzgeraldo Sanchez,Â MD",1345826407,33,Pediatrician,2124
+318,"Dr.Â Gregory Tsai,Â MD",1345826407,42,AudiologistDentist,2362
+319,"Dr.Â Rajiv Agashiwala,Â DO",1345826407,45,AudiologistDentist,1889
+320,"Kendra Joseph,Â PAC",1345826407,39,Opthalmologist,2067
+321,"Dr.Â Diana Nassar,Â MD",1345826407,58,AudiologistDentist,1112
+322,"Meulan Amen,Â NP",1345826407,57,Opthamologist,3610
+323,"Dr.Â Calvin Wei,Â MD",1345826407,46,Cardiologist,2227
+324,"Dr.Â Douglas Altchek,Â MD",1345826407,37,Opthalmologist,4631
+325,"Dr.Â Calvin Wei,Â MD",1345826407,54,Cardiologist,4032
+326,"Dr.Â Jonathan Ungar,Â MD",1345826407,47,Gynaecologist,3302
+327,"Dr.Â Jared Dropkin,Â DO",1345826407,41,Neurosurgeon,1929
+328,"Paria Torabi,Â PA",1345826407,32,Gynaecologist,3839
+329,"Dr.Â Bruce E. Katz,Â MD",1345826407,54,Gynaecologist,3828
+330,"Dr.Â Sanjosh Singh,Â DO",1345826407,37,Endocrinologist,606
+331,"Dr.Â Ami Patel,Â MD",1345826407,34,AudiologistDentist,1959
+332,"Dr.Â John Adams,Â MD",1345826407,37,Pediatrician,3900
+333,"Dr.Â Natan Schleider,Â MD",1345826407,35,Cardiologist,1344
+334,"Dr.Â Natan Schleider,Â MD",1345826407,53,Gynaecologist,3859
+335,"Dr.Â Lee Coleman Hinnant,Â MD",1345826407,34,Opthamologist,209
+336,"Dr.Â Tim Mainardi,Â MD",1345826407,50,Gynaecologist,245
+337,"Dr.Â Shanna Levine,Â MD",1345826407,59,Endocrinologist,3769
+338,"Dr.Â Diana Nassar,Â MD",1345826407,46,AudiologistDentist,4549
+339,"Dr.Â Marcella Allen,Â MD",1345826407,51,Audiologist,4326
+340,"Dr.Â Bruce E. Katz,Â MD",1345826407,48,ENT,983
+341,"Dr.Â Michael Aziz,Â MD",1345826407,36,Opthamologist,1492
+342,"Dr.Â Matthew Pabis,Â MD",1345826407,47,Neurosurgeon,3451
+343,"Dr.Â Lydia Wu,Â MD",1345826407,60,Neurosurgeon,773
+344,"Dr.Â Roshni R. Naik,Â MD",1345826407,55,Audiologist,3161
+345,"Dr.Â Roshni R. Naik,Â MD",1345826407,50,ENT,1678
+346,"Heather Johnson,Â PAC",1345826407,55,Cardiologist,672
+347,"Dr.Â Mindy Satsky,Â MD",1345826407,48,Gynaecologist,2394
+348,"Dr.Â Mindy Satsky,Â MD",1345826407,36,Gynaecologist,3640
+349,"Dr.Â Julie Kuriakose,Â MD",1345826407,49,Opthamologist,3330
+350,"Virali Patel,Â PA",1345826407,40,Endocrinologist,658
+351,"Dr.Â Rachel Cohen,Â MD, MS",1345826407,48,Endocrinologist,2617
+352,"Dr.Â Celina John,Â MD",1345826407,39,Opthamologist,1786
+353,"Dr.Â Rajiv Agashiwala,Â DO",1345826407,48,ENT,211
+354,"Dr.Â Julide Celebi,Â MD",1345826407,36,Opthamologist,2044
+355,"Dr.Â Carlos Rodriguez-Jaquez,Â MD",1345826407,42,Endocrinologist,1418
+356,"Dr.Â John Chuey,Â MD",1345826407,40,Neurosurgeon,1994
+357,"Dr.Â Yong Luo,Â MD, PhD",1345826407,49,Gynaecologist,4676
+358,"Dr.Â Marcella Allen,Â MD",1345826407,31,Endocrinologist,1750
+359,"Dr.Â Carlos Rodriguez-Jaquez,Â MD",1345826407,51,Audiologist,3417
+360,"Dr.Â Andrew Fallis,Â MD",1345826407,49,ENT,1508
+361,"Dr.Â Zobidatte Moussa,Â MD",1345826407,37,Opthalmologist,1963
+362,"Dr.Â Andrew Fallis,Â MD",1345826407,32,Gynaecologist,4035
+363,"Dr.Â John Adams,Â MD",1345826407,57,Cardiologist,795
+364,"Dr.Â Doron Katz,Â MD",1345826407,50,Opthalmologist,397
+365,"Dr.Â Shanna Levine,Â MD",1345826407,55,Neurosurgeon,1996
+366,"Dr.Â Pinkas Lebovits,Â MD",1345826407,39,Audiologist,651
+367,"Dr.Â Tal Dagan,Â MD",1345826407,45,Neurosurgeon,3925
+368,"Dr.Â Xiao Xiao Ma,Â MD",1345826407,51,Cardiologist,1165
+369,"Dr.Â Debra Jaliman,Â MD",1345826407,32,Opthamologist,3464
+370,"Dr.Â Yong Luo,Â MD, PhD",1345826407,42,Gynaecologist,4681
+371,"Dr.Â Rose Karanicolas,Â MD",1345826407,32,Opthalmologist,1283
+372,"Dr.Â Robert Tamayev,Â MD, PhD",1345826407,47,AudiologistDentist,2728
+373,"Dr.Â Christina Jones,Â MD",1345826407,39,Opthalmologist,3354
+374,"Dr.Â David Volpi,Â MD",1345826407,45,Opthalmologist,2786
+375,"Dr.Â Christina Jones,Â MD",1345826407,43,Neurosurgeon,2640
+376,"Dr.Â Jared Dropkin,Â DO",1345826407,35,Neurosurgeon,1991
+377,"Dr.Â Kamran Jafri,Â MD",1345826407,30,ENT,1783
+378,"Dr.Â Adjoa Duker,Â MD, MPH",1345826407,54,ENT,4120
+379,"Dr.Â Isaac Namdar,Â MD, FACS",1345826407,49,Endocrinologist,723
+380,"Dr.Â Mary Lee-Wong,Â MD",1345826407,41,Endocrinologist,1744
+381,"Dr.Â Laurie Rice,Â MD",1345826407,45,Pediatrician,2112
+382,"Dr.Â Robert Tamayev,Â MD, PhD",1345826407,37,AudiologistDentist,1762
+383,"Dr.Â Andrew Woolrich,Â MD",1345826407,40,Pediatrician,2576
+384,"Laura Palmisano,Â PAC",1345826407,37,Neurosurgeon,2707
+385,"Dr.Â Gregory Tsai,Â MD",1345826407,31,Pediatrician,3501
+386,"Dr.Â Laurie Rice,Â MD",1345826407,51,Gynaecologist,3865
+387,"Dr.Â Aaron Spingarn,Â MD",1345826407,45,Gynaecologist,1816
+388,"Dr.Â Howard Shapiro,Â DO",1345826407,49,Audiologist,2578
+389,"Dr.Â Sourab Choudhury,Â DO",1345826407,36,Opthamologist,1009
+390,"Dr.Â Harish Kothari,Â MD",1345826407,53,Gynaecologist,3180
+391,"Dr.Â Janie Barnett,Â AuD",1345826407,54,Cardiologist,3415
+392,"Pouya Bral,Â MA",1345826407,52,Opthamologist,3663
+393,"Pouya Bral,Â MA",1345826407,58,ENT,3728
+394,"Dr.Â Alexandra Zweig,Â AuD",1345826407,42,Neurosurgeon,2398
+395,"Dr.Â Ariella Naim,Â AuD",1345826407,31,Audiologist,2779
+396,"Dr.Â Danilova Rufina Yakubov,Â AuD",1345826407,36,ENT,1292
+397,"Dr.Â Mary Biordi,Â AuD",1345826407,32,AudiologistDentist,2884
+398,"Dr.Â Craig Kasper,Â AuD",1345826407,34,Opthalmologist,2418
+399,"Dr.Â Marta Gielarowiec,Â AuD",1345826407,59,ENT,3190
+400,"Dr.Â Eduardo Bravo,Â AuD",1345826407,38,Opthamologist,2222
+401,"Dr.Â Jessica Woodson,Â AuD",1345826407,58,Audiologist,227
+402,"Dr.Â Matthew Pabis,Â MD",1345826407,33,Cardiologist,2697
+403,"Dr.Â Kathy Feng,Â AuD",1345826407,46,Gynaecologist,810
+404,"Dr.Â Eduardo Bravo,Â AuD",1345826407,30,Neurosurgeon,1293
+405,"Dr.Â Monica Skarzynski,Â AuD",1345826407,49,AudiologistDentist,1732
+406,"Dr.Â Alyssa Hackett,Â MD",1345826407,30,Pediatrician,1300
+407,"Dr.Â Richard Nass,Â MD",1345826407,59,Opthalmologist,3601
+408,"Michelle Matyko,Â CCC-A",1345826407,42,Pediatrician,860
+409,"Dr.Â Marta Gielarowiec,Â AuD",1345826407,34,ENT,2375
+410,"Dr.Â Gregory Tsai,Â MD",1345826407,54,Gynaecologist,4572
+411,"Dr.Â Louise-Nicole Moulin,Â MD",1345826407,40,Audiologist,3452
+412,"Dr.Â Marta Gielarowiec,Â AuD",1345826407,56,Neurosurgeon,1723
+413,"Dr.Â William Mandell,Â MD",1345826407,43,Audiologist,3967
+414,"Dr.Â Calvin Wei,Â MD",1345826407,54,Endocrinologist,4443
+415,"Dr.Â Isaac Namdar,Â MD, FACS",1345826407,57,Gynaecologist,4419
+416,"Dr.Â Alyssa Hackett,Â MD",1345826407,38,Opthalmologist,1878
+417,"Dr.Â Syra Hanif,Â MD",1345826407,40,Audiologist,939
+418,"Dr.Â Calvin Wei,Â MD",1345826407,32,Gynaecologist,111
+419,"Dr.Â Anthony Jahn,Â MD",1345826407,40,Opthalmologist,2134
+420,"Dr.Â Robert Lebovics,Â MD, FACS",1345826407,36,ENT,89
+421,"Dr.Â Hayley Morgan,Â AuD",1345826407,57,ENT,2056
+422,"Dr.Â Scott Silver,Â MD",1345826407,39,Endocrinologist,4405
+423,"Dr.Â George Castro,Â MD",1345826407,38,Cardiologist,1093
+424,"Dr.Â Tal Dagan,Â MD",1345826407,47,Endocrinologist,3412
+425,"Dr.Â Gregory Tsai,Â MD",1345826407,54,Opthalmologist,2557
+426,"Dr.Â Robert Lebovics,Â MD, FACS",1345826407,47,Gynaecologist,4563
+427,"Dr.Â Dennis Karter,Â MD",1345826407,43,Cardiologist,4599
+428,"Dr.Â Kamran Jafri,Â MD",1345826407,51,AudiologistDentist,1061
+429,"Dr.Â David Volpi,Â MD",1345826407,32,Endocrinologist,1602
+430,"Dr.Â Gregory Levitin,Â MD",1345826407,41,Cardiologist,2228
+431,"Dr.Â Melissa Chan,Â MD",1345826407,56,Pediatrician,809
+432,"Dr.Â Melissa Chan,Â MD",1345826407,30,Cardiologist,4116
+433,"Dr.Â Matthew Pabis,Â MD",1345826407,40,Gynaecologist,2983
+434,"Dr.Â Xiao Xiao Ma,Â MD",1345826407,33,Gynaecologist,1995
+435,"Dr.Â Lydia Wu,Â MD",1345826407,33,Audiologist,4702
+436,"Dr.Â Dennis Karter,Â MD",1345826407,32,Gynaecologist,2156
+437,"Stefanie Ammiano,Â NP",1345826407,59,Opthalmologist,2349
+438,"Dr.Â John Weigand,Â AuD",1345826407,45,Opthalmologist,30
+439,"Stefanie Ammiano,Â NP",1345826407,60,Opthalmologist,3063
+440,"Dr.Â Shari Reitzen,Â MD",1345826407,43,AudiologistDentist,1353
+441,"Dr.Â Cathy Carron,Â MD",1345826407,31,Endocrinologist,1326
+442,"Dr.Â Zarina (Naizam) Badalova,Â AuD",1345826407,60,ENT,1347
+443,"Dr.Â Natan Schleider,Â MD",1345826407,33,AudiologistDentist,550
+444,"Dr.Â Natan Schleider,Â MD",1345826407,33,Pediatrician,839
+445,"Dr.Â Yulya Timashpolsky,Â MD",1345826407,46,ENT,2449
+446,"Dr.Â Alyssa Hackett,Â MD",1345826407,39,ENT,2784
+447,"Dr.Â Michael Qualley,Â AuD",1345826407,56,Endocrinologist,3634
+448,"Dr.Â Vincent D'Auria,Â AuD",1345826407,35,Audiologist,4025
+449,"Dr.Â Jessica Frankel,Â AuD",1345826407,52,Pediatrician,2716
+450,"Dr.Â Jessica Woodson,Â AuD",1345826407,40,Cardiologist,2264
+451,"Dr.Â Natalie Abergel,Â AuD",1345826407,56,Opthalmologist,2135
+452,"Dr.Â Aaron Spingarn,Â MD",1345826407,50,Pediatrician,4002
+453,"Dr.Â Aldo Londino,Â MD",1345826407,59,Gynaecologist,1207
+454,"Dr.Â Marcella Allen,Â MD",1345826407,53,AudiologistDentist,3772
+455,"Dr.Â Jeffrey Ahn,Â MD",1345826407,60,Endocrinologist,819
+456,"Dr.Â Aaron Spingarn,Â MD",1345826407,40,Neurosurgeon,1727
+457,"Dr.Â Marcella Allen,Â MD",1345826407,59,Pediatrician,1896
+458,"Dr.Â Anthony Jahn,Â MD",1345826407,45,Pediatrician,4380
+459,"Dr.Â John Adams,Â MD",1345826407,47,Audiologist,3986
+460,"Dr.Â David Volpi,Â MD",1345826407,36,Endocrinologist,2076
+461,"Dr.Â Charmaine Young,Â DO",1345826407,58,Pediatrician,3128
+462,"Dr.Â Shanna Levine,Â MD",1345826407,43,Audiologist,4511
+463,"Dr.Â Robert J. Bos,Â MD",1345826407,30,Audiologist,4157
+464,"Dr.Â Zarina (Naizam) Badalova,Â AuD",1345826407,59,Neurosurgeon,2023
+465,"Dr.Â Adjoa Duker,Â MD, MPH",1345826407,42,Gynaecologist,524
+466,"Dr.Â Rachel Cohen,Â MD, MS",1345826407,32,Cardiologist,1124
+467,"Dr.Â John Adams,Â MD",1345826407,58,Opthalmologist,870
+468,"Dr.Â Jennifer Donath,Â AuD",1345826407,58,ENT,4651
+469,"Dr.Â Meagan Hydar,Â AuD",1345826407,40,Neurosurgeon,4735
+470,"Dr.Â Shari Reitzen,Â MD",1345826407,37,Endocrinologist,570
+471,"Dr.Â Katherine Gilmore,Â AuD",1345826407,43,AudiologistDentist,752
+472,"Dr.Â Seth Weible,Â AuD",1345826407,47,Opthamologist,4589
+473,"Dr.Â Faith Chang,Â MD",1345826407,49,Gynaecologist,2079
+474,"Dr.Â Christina Jones,Â MD",1345826407,46,AudiologistDentist,4477
+475,"Dr.Â Doron Katz,Â MD",1345826407,52,Gynaecologist,2645
+476,"Dr.Â Christina Jones,Â MD",1345826407,31,Endocrinologist,2176
+477,"Dr.Â Shanna Levine,Â MD",1345826407,38,Endocrinologist,1845
+478,"Pouya Bral,Â MA",1345826407,44,Opthamologist,2931
+479,"Dr.Â Isaac Namdar,Â MD, FACS",1345826407,59,Pediatrician,2538
+480,"Lauren Falcone,Â NP",1345826407,34,AudiologistDentist,290
+481,"Meulan Amen,Â NP",1345826407,32,Pediatrician,769
+482,"Michelle Matyko,Â CCC-A",1345826407,41,Opthalmologist,2381
+483,"Dr.Â David Bekhor,Â MD",1345826407,42,Pediatrician,2250
+484,"Dr.Â Keith Uleis,Â MD",1345826407,55,Neurosurgeon,2024
+485,"Dr.Â Keith Uleis,Â MD",1345826407,51,Neurosurgeon,2583
+486,"Dr.Â Rachel Cohen,Â MD, MS",1345826407,59,AudiologistDentist,1305
+487,"Dr.Â Andrew Fallis,Â MD",1345826407,50,ENT,3305
+488,"Dr.Â Laurie Rice,Â MD",1345826407,50,Cardiologist,230
+489,"Dr.Â Andrew Fallis,Â MD",1345826407,53,Cardiologist,372
+490,"Dr.Â Yixiu Zheng,Â MD",1345826407,34,Gynaecologist,3077
+491,"Dr.Â Naresh Rao,Â DO",1345826407,30,Opthamologist,2854
+492,"Dr.Â Doron Katz,Â MD",1345826407,33,Opthalmologist,4262
+493,"Dr.Â Alexis Drullinsky,Â MD",1345826407,50,Opthamologist,395
+494,"Dr.Â Naresh Rao,Â DO",1345826407,52,Endocrinologist,237
+495,"Dr.Â Laurie Rice,Â MD",1345826407,50,Endocrinologist,2323
+496,"Dr.Â Alexis Drullinsky,Â MD",1345826407,38,Gynaecologist,3985
+497,"Dr.Â Kamran Jafri,Â MD",1345826407,49,Endocrinologist,3940
+498,"Dr.Â Carlos Rodriguez-Jaquez,Â MD",1345826407,51,Cardiologist,1243
+499,"Dr.Â Kamran Jafri,Â MD",1345826407,54,AudiologistDentist,2191
+500,"Dr.Â Brittany Beers,Â AuD",1345826407,52,AudiologistDentist,36
+501,"Dr.Â Michael Aziz,Â MD",1345826407,49,Endocrinologist,4274
+502,"Dr.Â Aran Degenhardt,Â MD, CAc",1345826407,48,Gynaecologist,1518
+503,"Dr.Â Alexa Lessow,Â MD",1345826407,59,ENT,1402
+504,"Dr.Â Yixiu Zheng,Â MD",1345826407,35,Opthalmologist,4432
+505,"Dr.Â Carlos Rodriguez-Jaquez,Â MD",1345826407,48,Pediatrician,40
+506,"Dr.Â Noah Sands,Â MD",1345826407,40,Gynaecologist,3559
+507,"Carolyn Iocolano,Â NP",1345826407,47,Endocrinologist,2224
+508,"Dr.Â Weymin Hago,Â MD",1345826407,39,Opthalmologist,276
+509,"Dr.Â Marta Gielarowiec,Â AuD",1345826407,60,ENT,3971
+510,"Dr.Â Jessica Frankel,Â AuD",1345826407,55,Neurosurgeon,1744
+511,"Dr.Â Zobidatte Moussa,Â MD",1345826407,35,Endocrinologist,1405
+512,"Dr.Â Carlos Rodriguez-Jaquez,Â MD",1345826407,33,Opthamologist,4105
+513,"Dr.Â Carlos Rodriguez-Jaquez,Â MD",1345826407,31,Gynaecologist,4409
+514,"Dr.Â Alexa Lessow,Â MD",1345826407,42,AudiologistDentist,3561
+515,"Dr.Â Sherin Mermash,Â MD",1345826407,49,Opthalmologist,2084
+516,"Dr.Â Christina Jones,Â MD",1345826407,30,AudiologistDentist,659
+517,"Dr.Â Michael Bagner,Â MD",1345826407,41,Opthamologist,4077
+518,"Dr.Â Aran Degenhardt,Â MD, CAc",1345826407,51,Audiologist,2649
+519,"Dr.Â Talley Dabakarov,Â AuD",1345826407,34,Opthamologist,3686
+520,"Dr.Â Prarthana Beuria,Â MD",1345826407,59,AudiologistDentist,2996
+521,"Dr.Â Scott Silver,Â MD",1345826407,49,Cardiologist,3440
+522,"Dr.Â Elizaveta Tikhonova,Â MD",1345826407,47,ENT,3332
+523,"Dr.Â Syra Hanif,Â MD",1345826407,45,Neurosurgeon,2087
+524,"Dr.Â Kathryn Alcarez,Â DO",1345826407,47,Pediatrician,3622
+525,"Carli Johnston,Â PA",1345826407,59,Opthalmologist,227
+526,"Dr.Â Faith Chang,Â MD",1345826407,46,Opthamologist,2539
+527,"Dr.Â Yulya Timashpolsky,Â MD",1345826407,57,Cardiologist,3094
+528,"Dr.Â Debbie Goodman,Â MD",1345826407,40,ENT,3383
+529,"Dr.Â Seth Weible,Â AuD",1345826407,39,Opthalmologist,881
+530,"Dr.Â Neelima Tangirala,Â MD",1345826407,41,Audiologist,491
+531,"Dr.Â Jessica Allan,Â MD",1345826407,56,Gynaecologist,1388
+532,"Dr.Â Shirin Peters,Â MD",1345826407,47,Audiologist,1010
+533,"Dr.Â Jyoti Kini,Â MD",1345826407,43,Neurosurgeon,2679
+534,"Dr.Â Lada Galilova,Â DO",1345826407,46,Opthamologist,409
+535,"Dr.Â Pearl Lui,Â MD",1345826407,58,Cardiologist,4100
+536,"Dr.Â Daniel Kim,Â DO",1345826407,40,Neurosurgeon,1455
+537,"Dr.Â Karthik Karibandi,Â MD",1345826407,58,Gynaecologist,4402
+538,"Dr.Â Tal Dagan,Â MD",1345826407,51,Opthamologist,593
+539,"Dr.Â Michael Qualley,Â AuD",1345826407,37,Gynaecologist,3280
+540,"Dr.Â Vincent D'Auria,Â AuD",1345826407,58,Cardiologist,425
+541,"Dr.Â Yonhee Cha,Â MD",1345826407,57,Opthalmologist,4119
+542,"Dr.Â Pearl Lui,Â MD",1345826407,35,Opthalmologist,1168
+543,"Dr.Â Carolyn Chang,Â MD",1345826407,40,ENT,3088
+544,"Dr.Â Paunel Vukasinov,Â MD",1345826407,45,Audiologist,2697
+545,"Dr.Â Mary Biordi,Â AuD",1345826407,49,Audiologist,51
+546,"Dr.Â Mekdes Hailu,Â MD",1345826407,53,Endocrinologist,1780
+547,"Dr.Â Mekdes Hailu,Â MD",1345826407,57,Opthalmologist,3853
+548,"Dr.Â Jennifer Ng,Â MD",1345826407,56,ENT,3943
+549,"Christi Cherian,Â PA",1345826407,36,Endocrinologist,2792
+550,"Dr.Â Karthik Karibandi,Â MD",1345826407,34,Opthamologist,443
+551,"Dr.Â Jessica Woodson,Â AuD",1345826407,42,Endocrinologist,2815
+552,"Dr.Â Cathy Carron,Â MD",1345826407,55,Opthamologist,2591
+553,"Dr.Â Jenny Shih,Â MD",1345826407,32,Pediatrician,4574
+554,"Dr.Â Natalie Abergel,Â AuD",1345826407,38,Neurosurgeon,4764
+555,"Dr.Â Nabeel Chaudhary,Â MD",1345826407,58,Pediatrician,909
+556,"Dr.Â Nabeel Chaudhary,Â MD",1345826407,40,AudiologistDentist,3657
+557,"Dr.Â Zobidatte Moussa,Â MD",1345826407,51,ENT,2575
+558,"Dr.Â Christina Jones,Â MD",1345826407,60,Opthalmologist,3466
+559,"Michelle Matyko,Â CCC-A",1345826407,59,Opthalmologist,548
+560,"Dr.Â Yevgeniy Vaynkof,Â MD",1345826407,33,ENT,1812
+561,"Dr.Â Daniela Lipovic,Â DO",1345826407,36,Opthalmologist,996
+562,"Dr.Â Justin Amarnani,Â MD",1345826407,56,Endocrinologist,2434
+563,"Dr.Â Sherin Mermash,Â MD",1345826407,36,Endocrinologist,2219
+564,"Dr.Â Yonni Pellet,Â MD",1345826407,37,ENT,1063
+565,"Dr.Â Lada Galilova,Â DO",1345826407,54,Cardiologist,2477
+566,"Dr.Â Noah Sands,Â MD",1345826407,49,Opthamologist,947
+567,"Dr.Â Pervaiz Iqbal,Â MD, FCCP",1345826407,45,Neurosurgeon,3236
+568,"Dr.Â Eda Chao,Â MD",1345826407,54,ENT,3699
+569,"Dr.Â Zobidatte Moussa,Â MD",1345826407,47,Opthalmologist,745
+570,"Dr.Â Ruth Johnson,Â MD",1345826407,43,Audiologist,76
+571,"Dr.Â Jennifer Donath,Â AuD",1345826407,36,Audiologist,1536
+572,"Dr.Â Meagan Hydar,Â AuD",1345826407,35,Audiologist,4586
+573,"Dr.Â Elizaveta Tikhonova,Â MD",1345826407,51,Opthalmologist,975
+574,"Dr.Â Ashima Bakhru,Â MD",1345826407,54,Audiologist,659
+575,"Dr.Â Neelima Tangirala,Â MD",1345826407,51,Gynaecologist,880
+576,"Dr.Â Shirin Peters,Â MD",1345826407,57,AudiologistDentist,4386
+577,"Dr.Â Jessica Frankel,Â AuD",1345826407,34,Opthalmologist,139
+578,"Dr.Â Natalya Levi,Â AuD",1345826407,51,Opthamologist,1291
+579,"Dr.Â Gregory Levitin,Â MD",1345826407,49,Opthalmologist,2114
+580,"Dr.Â Debbie Goodman,Â MD",1345826407,59,Cardiologist,1357
+581,"Dr.Â Sonal Jani,Â MD",1345826407,42,Neurosurgeon,1114
+582,"Dr.Â Kenneth Giedd,Â MD",1345826407,46,Audiologist,4549
+583,"Dr.Â Azadeh Beheshtian,Â MD",1345826407,53,ENT,1728
+584,"Dr.Â Azadeh Beheshtian,Â MD",1345826407,44,Opthalmologist,3954
+585,"Dr.Â Pramod Sanghi,Â MD",1345826407,59,Endocrinologist,3750
+586,"Dr.Â Dmitry Gorelik,Â MD",1345826407,32,Audiologist,2109
+587,"Dr.Â Salvatore Cavaleri,Â MD",1345826407,49,AudiologistDentist,1778
+588,"Dr.Â Abiola Dele-Michael,Â MD, FACC, MPH",1345826407,55,Cardiologist,3356
+589,"Dr.Â Abiola Dele-Michael,Â MD, FACC, MPH",1345826407,55,Cardiologist,2020
+590,"Dr.Â Peter Virzi,Â MD",1345826407,41,AudiologistDentist,1811
+591,"Dr.Â Maurice Rachko,Â MD",1345826407,37,Opthamologist,2489
+592,"Dr.Â Jeffrey Wessler,Â MD, MPH",1345826407,40,Endocrinologist,4368
+593,"Dr.Â Kenneth Giedd,Â MD",1345826407,50,Opthamologist,4034
+594,"Dr.Â Peter Virzi,Â MD",1345826407,57,ENT,1646
+595,"Dr.Â Robert Kornberg,Â MD",1345826407,49,Neurosurgeon,765
+596,"Dr.Â Shyam Amin,Â MD",1345826407,57,Cardiologist,3574
+597,"Dr.Â Shyam Amin,Â MD",1345826407,30,Opthalmologist,2379
+598,"Dr.Â Edo Paz,Â MD",1345826407,41,Cardiologist,1615
+599,"Dr.Â Sonal Jani,Â MD",1345826407,39,Cardiologist,1446
+600,"Dr.Â Sonal Jani,Â MD",1345826407,41,Endocrinologist,1000
+601,"Dr.Â Sonal Jani,Â MD",1345826407,56,AudiologistDentist,439
+602,"Dr.Â Marc Rybstein,Â MD",1345826407,56,Endocrinologist,4738
+603,"Dr.Â Pramod Sanghi,Â MD",1345826407,43,Pediatrician,1699
+604,"Dr.Â Krysthel Engstrom,Â MD",1345826407,40,Neurosurgeon,2949
+605,"Dr.Â Sonal Jani,Â MD",1345826407,57,Pediatrician,182
+606,"Dr.Â Jeffrey Kohn,Â MD, FACC",1345826407,53,Pediatrician,4421
+607,"Dr.Â Mary Greene,Â MD",1345826407,42,ENT,969
+608,"Dr.Â Alexander Mauskop,Â MD, FACC",1345826407,32,ENT,2240
+609,"Dr.Â Salvatore Cavaleri,Â MD",1345826407,59,Audiologist,482
+610,"Dr.Â Robert Segal,Â MD",1345826407,46,Opthalmologist,4544
+611,"Dr.Â Alexander Mauskop,Â MD, FACC",1345826407,46,Pediatrician,2260
+612,"Dr.Â Gargi Bajpayee,Â MD",1345826407,55,Cardiologist,1200
+613,"Dr.Â Gargi Bajpayee,Â MD",1345826407,47,Audiologist,507
+614,"Dr.Â Mark Meyer,Â MD, FACC, FACP",1345826407,58,Opthalmologist,311
+615,"Dr.Â Amnon Beniaminovitz,Â MD, FACC",1345826407,57,Endocrinologist,1749
+616,"Dr.Â Shyam Amin,Â MD",1345826407,43,Opthalmologist,3955
+617,"Dr.Â Shyam Amin,Â MD",1345826407,32,Opthamologist,3031
+618,"Dr.Â Mark Seldon,Â MD, FACC",1345826407,31,Cardiologist,2058
+619,"Dr.Â Henry Wu,Â MD, FACC",1345826407,48,ENT,2191
+620,"Dr.Â Ellen Mellow,Â MD",1345826407,44,Cardiologist,2890
+621,"Dr.Â Sonal Jani,Â MD",1345826407,34,Gynaecologist,435
+622,"Dr.Â Ellen Mellow,Â MD",1345826407,59,AudiologistDentist,2375
+623,"Dr.Â Scott Silver,Â MD",1345826407,52,Neurosurgeon,1273
+624,"Dr.Â Abiola Dele-Michael,Â MD, FACC, MPH",1345826407,56,Opthalmologist,3716
+625,"Dr.Â Nina Mirsakov,Â DO",1345826407,45,Endocrinologist,1082
+626,"Dr.Â Jossef Amirian,Â MD, FACC",1345826407,45,Audiologist,1226
+627,"Dr.Â Hugo Rosero,Â DO",1345826407,49,Gynaecologist,135
+628,"Dr.Â Hugo Rosero,Â DO",1345826407,35,Pediatrician,1936
+629,"Dr.Â Olena Dotsenko,Â MD",1345826407,57,ENT,3845
+630,"Dr.Â Olena Dotsenko,Â MD",1345826407,49,Pediatrician,4579
+631,"Dr.Â Kiruthika Balasundaram,Â MD",1345826407,42,Opthalmologist,3315
+632,"Dr.Â Shyam Amin,Â MD",1345826407,44,AudiologistDentist,4221
+633,"Dr.Â Shyam Amin,Â MD",1345826407,51,ENT,1290
+634,"Dr.Â Yulya Timashpolsky,Â MD",1345826407,37,AudiologistDentist,2706
+635,"Dr.Â Timothy Jayasundera,Â MD, FACC",1345826407,57,Endocrinologist,701
+636,"Dr.Â Eugene Khait,Â MD",1345826407,57,Pediatrician,3098
+637,"Dr.Â Richard Mueller,Â MD, FACC, FACP, FAHA",1345826407,31,AudiologistDentist,3808
+638,"Dr.Â Glenn Gandelman,Â MD, FACC, MPH",1345826407,42,Opthalmologist,601
+639,"Dr.Â Timothy Jayasundera,Â MD, FACC",1345826407,38,Opthalmologist,3946
+640,"Dr.Â Abiola Dele-Michael,Â MD, FACC, MPH",1345826407,42,Neurosurgeon,4053
+641,"Dr.Â Sonal Jani,Â MD",1345826407,35,ENT,2859
+642,"Dr.Â Fadi Karou,Â MD, FACC",1345826407,33,AudiologistDentist,276
+643,"Dr.Â Anna Kezerashvili,Â MD",1345826407,39,Cardiologist,221
+644,"Dr.Â Syed Iman Husain,Â MD",1345826407,36,Opthalmologist,391
+645,"Dr.Â Zobidatte Moussa,Â MD",1345826407,46,ENT,4132
+646,"Dr.Â Kenneth Giedd,Â MD",1345826407,49,Opthalmologist,2434
+647,"Dr.Â Timothy Jayasundera,Â MD, FACC",1345826407,54,Opthamologist,731
+648,"Dr.Â Yaacov Weiss,Â MD",1345826407,32,Audiologist,388
+649,"Dr.Â Bette Kim,Â MD",1345826407,49,AudiologistDentist,3787
+650,"Dr.Â Barry Bellovin,Â MD",1345826407,55,ENT,466
+651,"Dr.Â Sean Kotkin,Â MD",1345826407,48,Audiologist,1128
+652,"Dr.Â Neelima Tangirala,Â MD",1345826407,37,Opthalmologist,89
+653,"Dr.Â Shirin Peters,Â MD",1345826407,58,Neurosurgeon,39
+654,"Dr.Â Scott Silver,Â MD",1345826407,58,Endocrinologist,170
+655,"Dr.Â Lada Galilova,Â DO",1345826407,47,Neurosurgeon,488
+656,"Dr.Â Zobidatte Moussa,Â MD",1345826407,44,Neurosurgeon,4269
+657,"Dr.Â Shyam Amin,Â MD",1345826407,56,AudiologistDentist,4575
+658,"Dr.Â Barry Huppert,Â MD",1345826407,55,ENT,1719
+659,"Dr.Â Barry Huppert,Â MD",1345826407,57,Opthamologist,779
+660,"Dr.Â Yulya Timashpolsky,Â MD",1345826407,32,Opthalmologist,3286
+661,"Dr.Â Sonal Jani,Â MD",1345826407,57,Gynaecologist,3244
+662,"Dr.Â Sean Kotkin,Â MD",1345826407,46,Neurosurgeon,2085
+663,"Dr.Â Shirin Peters,Â MD",1345826407,59,Gynaecologist,1886
+664,"Dr.Â Neelima Tangirala,Â MD",1345826407,50,Gynaecologist,427
+665,"Dr.Â Mayer Rydzinski,Â MD, FACC",1345826407,42,Endocrinologist,3225
+666,"Dr.Â Sonal Jani,Â MD",1345826407,41,Endocrinologist,2587
+667,"Dr.Â Lada Galilova,Â DO",1345826407,42,Cardiologist,432
+668,"Dr.Â Sachin Kumar Amruthlal Jain,Â MD",1345826407,37,ENT,1378
+669,"Dr.Â Jerome Dubroff,Â MD",1345826407,54,Cardiologist,3682
+670,"Dr.Â Nay Htyte,Â MD, MS, FACC, FSCAI",1345826407,50,AudiologistDentist,37
+671,"Dr.Â Pramod Sanghi,Â MD",1345826407,32,Gynaecologist,1281
+672,"Dr.Â Zobidatte Moussa,Â MD",1345826407,59,Endocrinologist,3741
+673,"Christi Cherian,Â PA",1345826407,41,ENT,1284
+674,"Dr.Â David Fridman,Â MD",1345826407,46,Opthamologist,212
+675,"Dr.Â Salvatore Cavaleri,Â MD",1345826407,44,Pediatrician,649
+676,"Dr.Â Michael Ghalchi,Â MD",1345826407,59,Audiologist,1493
+677,"Dr.Â Sonal Jani,Â MD",1345826407,40,ENT,3176
+678,"Dr.Â David Fridman,Â MD",1345826407,33,Opthalmologist,1504
+679,"Dr.Â Lada Galilova,Â DO",1345826407,42,AudiologistDentist,2062
+680,"Dr.Â Vladimir Fridman,Â MD, FACC, FSCAI",1345826407,49,Endocrinologist,4310
+681,"Dr.Â Sonal Jani,Â MD",1345826407,56,Opthamologist,328
+682,"Dr.Â Nicole Harkin,Â MD",1345826407,35,Cardiologist,2093
+683,"Dr.Â Henry D. Wu,Â MD",1345826407,52,Cardiologist,4419
+684,"Dr.Â Henry Wu,Â MD, FACC",1345826407,53,Opthamologist,350
+685,"Dr.Â Shirin Peters,Â MD",1345826407,43,Opthalmologist,2237
+686,"Dr.Â Stephen Weiss,Â MD",1345826407,60,Audiologist,334
+687,"Dr.Â Stephen Weiss,Â MD",1345826407,50,Opthamologist,2661
+688,"Dr.Â Janice Chyou,Â MD",1345826407,33,Gynaecologist,329
+689,"Dr.Â Janice Chyou,Â MD",1345826407,49,AudiologistDentist,4662
+690,"Dr.Â Hugo Rosero,Â DO",1345826407,32,Gynaecologist,1423
+691,"Dr.Â Hugo Rosero,Â DO",1345826407,51,Audiologist,162
+692,"Dr.Â Neelima Tangirala,Â MD",1345826407,39,Gynaecologist,2931
+693,"Dr.Â Shyam Amin,Â MD",1345826407,51,Opthalmologist,3249
+694,"Dr.Â Jana Preis,Â MD, MPH",1345826407,59,Opthalmologist,3899
+695,"Dr.Â Herbert Insel,Â MD, FACC",1345826407,41,Pediatrician,945
+696,"Dr.Â Ankit R. Shah,Â MD",1345826407,40,Endocrinologist,945
+697,"Dr.Â Ankit R. Shah,Â MD",1345826407,46,Neurosurgeon,2604
+698,"Dr.Â Simon Thein,Â MD",1345826407,44,Endocrinologist,812
+699,"Dr.Â Mikhail Kapchits,Â MD",1345826407,49,ENT,501

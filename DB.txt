@@ -1,0 +1,39 @@
+Hospitals:
+Name
+Location
+Pincode
+Category
+Total number of beds - ICU, Normal, Ventilation
+Number of beds available - ICU, Normal, Ventilation
+Doctors available in the hospital
+
+Ambulance:
+Name
+Hospital
+Location
+Servicing
+Name and contact of ambulance
+Destination
+
+Blood banks:
+Name
+Location
+Blood groups
+Units of blood present
+
+Patient:
+Name
+Contact
+Age
+Category of admission
+Hospital
+Address
+Doctor
+Contact
+
+Reviews:
+Name of the person
+Name of the hospital
+Name of the doctor
+Review
+Rating
